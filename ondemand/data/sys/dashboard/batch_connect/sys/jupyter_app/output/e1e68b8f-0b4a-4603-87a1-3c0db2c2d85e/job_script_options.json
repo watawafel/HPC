@@ -1,0 +1,12 @@
+{
+  "job_name": "ondemand/sys/dashboard/sys/jupyter_app",
+  "workdir": "/home/gborcean/ondemand/data/sys/dashboard/batch_connect/sys/jupyter_app/output/e1e68b8f-0b4a-4603-87a1-3c0db2c2d85e",
+  "output_path": "/home/gborcean/ondemand/data/sys/dashboard/batch_connect/sys/jupyter_app/output/e1e68b8f-0b4a-4603-87a1-3c0db2c2d85e/output.log",
+  "wall_time": 3600,
+  "native": [
+    "-N",
+    1
+  ],
+  "email_on_started": false,
+  "queue_name": "DBMI"
+}

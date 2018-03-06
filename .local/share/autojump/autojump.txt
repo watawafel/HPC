@@ -1,0 +1,7 @@
+22.360679775	/home/gborcean/Exercises
+36.0555127546	/home/gborcean/BigData/Shakespeare
+29.9999999999	/home/gborcean/BigData/Hadoop
+74.8331477356	/home/gborcean/BigData
+14.1421356237	/home
+34.6410161513	/home/gborcean/Exercises/Test
+20.0	/home/gborcean/BigData/Clustering
